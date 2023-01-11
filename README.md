@@ -1,6 +1,6 @@
 # ProjectUAS
 
-### Repository ini dibuat sebagai project uas teknik informatika UPB
+### Repository Project UAS Teknik Informatika UPB
 
  - Membuat program nilai mahasiswa sederhana dengan menggunakan bahasa pemograman python
   
