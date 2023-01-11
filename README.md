@@ -10,7 +10,7 @@
   
  ### Untuk Penjelasan Program Melalui Pdf Bisa Klik Link Berikut : 
  
- [Modul program nilai mahasiswa](https://drive.google.com/file/d/1OC5LC29rJk9WLIN6VNRbFo83nVXfE4OJ/view?usp=drivesdk)
+ [Modul Program Nilai Mahasiswa](https://drive.google.com/file/d/1OC5LC29rJk9WLIN6VNRbFo83nVXfE4OJ/view?usp=drivesdk)
  
  ###  Untuk Penjelasan Program Berupa Video Youtube Klik Link Berikut : 
  
