@@ -1,5 +1,11 @@
 # ProjectUAS
 
+Nama  : Ferdyana Eka Prasetya
+
+Nim   : 312210121
+
+Kelas : TI.22.A1
+
 ### Repository Project UAS Teknik Informatika UPB
 
  - Membuat program nilai mahasiswa sederhana dengan menggunakan bahasa pemograman python
